@@ -1,12 +1,12 @@
-# RAG Project
+# RAG Project - LDS Handbook Chatbot
 
-This project showcases a Retrieval-Augmented Generation (RAG) system using various tools and libraries. The goal is to enhance document processing and interaction using advanced language models and vector databases.
+This project showcases a Retrieval-Augmented Generation (RAG) system using Langchain, Chroma DB, Google Colab, and OpenIA API. The goal is to enhance document processing and interaction using advanced language models and vector databases.
+
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
